@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ridiculouscorp.com/sitemap.xml

@@ -1,16 +1,20 @@
 # Ridiculous Corp
 
-Public website for [Ridiculous Corporation Limited](https://find-and-update.company-information.service.gov.uk/company/16493949) at [ridiculouscorp.com](https://ridiculouscorp.com).
+Public website for [Ridiculous Corporation Limited](https://find-and-update.company-information.service.gov.uk/company/16493949).
 
-Static files. Connect this repo to Vercel, then add the `ridiculouscorp.com` domain to the production project.
+Repo: https://github.com/fortblocks/ridiculouscorp
+Site: https://ridiculouscorp.com
 
-Media files live next to the HTML:
+## Deploy
 
-- `poster.jpg` — still of the mascot
-- `mascot.jpg` — full logo
-- `mascot.mp4` — short loop
+1. Import this repo in Vercel as a static site (no framework, no build command).
+2. Add domain `ridiculouscorp.com` (and `www` if you use it) to the production project.
+3. Add the mascot files at the repo root so the portrait is not a blank frame:
+   - `poster.jpg`
+   - `mascot.jpg`
+   - `mascot.mp4`
 
-If those are missing after clone, copy them from the `public/` folder in this workspace or drop the originals in.
+The HTML, CSS and company details are already here. The site is enough for Apple's organisation website check: legal name, company number, public registered office, and a working `@ridiculouscorp.com` contact.
 
 ## Company
 
